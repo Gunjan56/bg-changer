@@ -1,0 +1,38 @@
+body {
+  box-sizing: border-box;
+  
+}
+.row {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  
+}
+.box1 {
+  text-align: center;
+  margin: 10px;
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+.box2 {
+    text-align: center;
+    margin: 10px;
+    height: 200px;
+    width: 200px;
+    background-color: green;
+}
+.box3 {
+    text-align: center;
+    margin: 10px;
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+}
+.box4 {
+    text-align: center;
+    margin: 10px;
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
